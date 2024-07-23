@@ -495,7 +495,6 @@ a.hoverline:hover {
   text-align: center;
   vertical-align: middle;
   display: table-cell;
-  mix-blend-mode: multiply;
 }
 
 .card.large .card-content p {
