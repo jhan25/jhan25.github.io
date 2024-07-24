@@ -57,6 +57,10 @@
   color: #0077b5;
 }
 
+.easteregg {
+  color: red;
+}
+
 .angellist {
   color: grey;
 }
@@ -93,11 +97,6 @@
   border-radius: 5px;
   -webkit-border-radius: 5px;
 }
-
-/* .readme:hover{
-  color: white;
-  background-color: #00796b;
-} */
 
 .contactme {
   position: relative;
